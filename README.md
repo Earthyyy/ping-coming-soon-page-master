@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Ping coming soon page by Earthyy](https://your-live-site-url.com)
+- Live Site URL: [Ping coming soon page by Earthyy](https://earthyy-ping-coming-soon-page.netlify.app/)
 
 ## My process
 
